@@ -8,7 +8,7 @@ I wanted to practise working with transaction data, understand the patterns in i
 
 ## Dashboard Preview
 
-![UPI Transactions Dashboard](dashboard-preview.png)
+![UPI Transactions Dashboard](dashboard-preview.PNG)
 
 ## What I Explored
 
