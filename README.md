@@ -1,4 +1,4 @@
-# UPI Transactions Performance Analytics — 2024
+# UPI Transactions Analytics — 2024
 
 ## About the Project
 
